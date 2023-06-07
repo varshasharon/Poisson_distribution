@@ -79,6 +79,7 @@ else:
 
 # Output : 
 
+![exp2](https://github.com/varshasharon/Poisson_distribution/assets/98278161/dd4c2208-5900-43ea-b447-b39e6aeab6c6)
 
 
 # Results
